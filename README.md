@@ -35,10 +35,6 @@
 - Integration with SQL & Flask for user authentication  
 - Neon lung background interface design  
 
-### 🧠 Brain Tumor Diagnosis (Deep Learning)  
-- Personalized healthcare project using CNNs for brain tumor detection  
-- Focused on **precision & explainability** in AI  
-
 ### 🤖 BiasZero AI  
 - A fairness-driven AI hiring assistant project  
 - Based on earlier FairHire+ idea, promoting unbiased recruitment  
