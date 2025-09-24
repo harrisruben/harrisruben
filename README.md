@@ -63,9 +63,9 @@
 ---
 
 ## 🌐 Connect With Me  
-- 🔗 [Portfolio Website](https://harrisruben.netlify.app)  
+- 🔗 [Portfolio Website](https://harris-ruben.netlify.app/)  
 - 💼 [LinkedIn](https://linkedin.com/in/harrisruben)  
-- 📧 Email: harrisruben2004@gmail.com  
+- 📧 Email: harrisrubenr@gmail.com  
 
 ---
 
