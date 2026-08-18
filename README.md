@@ -1,68 +1,185 @@
-# 👋 Hi, I'm Harris Ruben  
+# 👋 Hi, I'm Harris Ruben
 
-🎓 **B.Tech CSE | DS & AI Student**  
-💡 Passionate about **AI, Machine Learning, and Computer Vision**  
-🚀 Building projects in **Healthcare AI, Fair AI, and Deep Learning**  
-
----
-
-## 🔥 About Me  
-- 📚 Currently exploring **Deep Learning, NLP, and Industry 4.0 skills**  
-- 🧑‍💻 Love building end-to-end ML solutions, from data preprocessing to deployment  
-- 🎯 Aim: To become **industry-ready AI Engineer** by graduation  
-- 💬 Ask me about: Python, Machine Learning, Deep Learning, Data Science  
-- 🌱 Always learning and sharing projects on GitHub  
+🎓 **B.Tech CSE | Data Science & AI**  
+🤖 **AI/ML Engineer | Generative AI | Computer Vision**  
+🚀 Building practical AI applications across **Voice AI, Healthcare AI, Fair AI, Deep Learning & Automation**
 
 ---
 
-## 📌 Featured Projects  
+## 🧠 About Me
 
-### 🐶🐱 Dog vs Cat Classification (CNN)  
-[🔗 GitHub Repo](https://github.com/harrisruben/Dog-vs-Cat-Classification)  
-- Dataset: 24k images (Microsoft Cats vs Dogs Dataset)  
-- Frameworks: TensorFlow, Keras  
-- Results:  
-  - ROC-AUC: **1.0**  
-  - Precision: **1.0**  
-  - F1 Score: **1.0**  
-  - Recall: **1.0**  
-  - Accuracy: **1.0**  
-  - Validation Accuracy: **95.77%**  
-- Validation Loss: **0.112**  
+I'm an AI-focused developer passionate about turning machine learning ideas into **real, usable applications**.
 
-### 🩺 RespireX – Lung Cancer Detection & Prediction  
-- AI-powered healthcare project detecting lung cancer from scans & reports  
-- Integration with SQL & Flask for user authentication  
-- Neon lung background interface design  
-
-### 🤖 BiasZero AI  
-- A fairness-driven AI hiring assistant project  
-- Based on earlier FairHire+ idea, promoting unbiased recruitment  
+- 🔭 Currently building AI-powered applications using **LLMs, Voice AI, RAG and automation**
+- 🤖 Exploring **Generative AI, Deep Learning, NLP, Computer Vision and AI Agents**
+- 🧑‍💻 Experienced in building **end-to-end AI/ML applications**, from data processing and model development to deployment
+- ⚙️ Interested in **AI Engineering, ML Engineering and Intelligent Automation**
+- 🌱 Continuously learning and experimenting with new AI technologies
+- 🎯 Goal: Build production-ready AI systems that solve meaningful real-world problems
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages**: Python, C, SQL  
-- **ML/DL**: TensorFlow, Keras, PyTorch (beginner), Scikit-learn  
-- **Data**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Tools**: Git, Google Colab, Jupyter, Flask  
-- **Databases**: PostgreSQL, MySQL  
+## 🚀 Featured Projects
+
+### 📞 [Vocentra AI](https://github.com/harrisruben/Vocentra-AI)
+
+**AI-powered Voice Automation & Lead Generation Platform**
+
+A SaaS platform designed to automate lead generation and outbound voice interactions using AI.
+
+**Key Technologies & Features:**
+- 🤖 Voice AI agents with **Vapi AI**
+- 📞 **Twilio** integration for voice communication
+- 🧠 AI-powered lead generation and analysis
+- 📚 RAG-based knowledge base
+- 🔎 Website and contact discovery
+- 👥 Leadership information extraction
+- 📊 Campaign and call monitoring dashboard
+- 🗄️ PostgreSQL + pgvector
+- ⚡ FastAPI backend
+- ⚛️ React + TypeScript frontend
+- 🔄 Redis, Docker and workflow automation
 
 ---
 
-## 📊 GitHub Stats  
+### ✍️ [LinkedIn AI Content Publisher](https://github.com/harrisruben/linkedin-ai-content-publisher)
 
-![Harris's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrisruben&show_icons=true&theme=radical)  
+**AI-powered LinkedIn Content Creation & Publishing**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harrisruben&layout=compact&theme=radical)  
+An automation-focused project designed to assist with generating and publishing professional LinkedIn content using AI.
+
+**Focus Areas:**
+- 🤖 AI-generated content
+- ✍️ Automated content creation
+- 🔗 LinkedIn integration
+- ⚙️ Content publishing automation
+- 🚀 AI-assisted personal branding
 
 ---
 
-## 🌐 Connect With Me  
-- 🔗 [Portfolio Website](https://harris-ruben.netlify.app/)  
-- 💼 [LinkedIn](https://linkedin.com/in/harrisruben)  
-- 📧 Email: harrisrubenr@gmail.com  
+### 🐶🐱 [Dog vs Cat Classification](https://github.com/harrisruben/Dog-vs-Cat-Classification)
+
+**Deep Learning Image Classification using CNN**
+
+A computer vision project trained to distinguish between cats and dogs using deep learning.
+
+- 🖼️ Dataset: **24K+ images**
+- 🧠 CNN-based image classification
+- ⚡ TensorFlow & Keras
+- 📊 Validation Accuracy: **95.77%**
+- 📉 Validation Loss: **0.112**
+- 📈 ROC-AUC: **1.0**
+- 🎯 Precision: **1.0**
+- 🎯 Recall: **1.0**
+- 🎯 F1 Score: **1.0**
 
 ---
 
-⭐ *Always open to collaboration and learning new things. Let's build something impactful!*  
+### 🩺 RespireX – Lung Cancer Detection & Prediction
+
+**AI-powered Healthcare Application**
+
+A healthcare-focused AI application designed to assist with lung cancer prediction using medical images and symptom-based information.
+
+**Technologies & Concepts:**
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 🩻 Medical Image Analysis
+- 🌐 Flask
+- 🗄️ SQL Database
+- 🎨 AI-focused web interface
+
+---
+
+### ⚖️ [BiasZero AI](https://github.com/TheAnekar/BiasZero.ai)
+
+**Fairness-Aware AI Recruitment Assistant**
+
+An AI-driven recruitment concept focused on reducing unwanted bias throughout the hiring process.
+
+**Key Areas:**
+- 👤 Resume anonymization
+- ⚖️ Bias detection
+- 💼 Fair career recommendations
+- 🕸️ Knowledge graph-based recommendations
+- 🗄️ Neo4j & PostgreSQL
+- 🤖 Transformer-based AI exploration
+- 📊 Fair AI principles
+
+---
+
+### 🍓 [Berry Berry](https://github.com/harrisruben/Berry-Berry)
+
+**Food Delivery Web Application**
+
+A web-based food ordering and delivery application developed as a full-stack project.
+
+**Focus Areas:**
+- 🌐 Web development
+- 🛒 Food ordering workflow
+- 🎨 User interface design
+- ⚙️ Backend integration
+
+---
+
+### 🧩 [Mini Project](https://github.com/TheAnekar/Mini-project)
+
+A collaborative mini-project exploring practical software and development concepts.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming
+`Python` `C` `SQL`
+
+### 🤖 AI / Machine Learning
+`TensorFlow` `Keras` `PyTorch` `Scikit-learn`
+
+### 🧠 AI & GenAI
+`Generative AI` `LLMs` `NLP` `RAG` `AI Agents` `Voice AI`
+
+### 👁️ Computer Vision
+`CNN` `Image Classification` `Deep Learning` `Medical Image Analysis`
+
+### 📊 Data Science
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+### 🌐 Development
+`FastAPI` `Flask` `React` `TypeScript` `HTML` `CSS`
+
+### 🗄️ Databases
+`PostgreSQL` `MySQL` `Neo4j` `pgvector`
+
+### ⚙️ Tools & Platforms
+`Git` `GitHub` `Docker` `Google Colab` `Jupyter` `VS Code` `Redis`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harrisruben&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harrisruben&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+- 🌐 **Portfolio:** [harris-ruben.netlify.app](https://harris-ruben.netlify.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/harrisruben](https://linkedin.com/in/harrisruben)
+- 🐙 **GitHub:** [github.com/harrisruben](https://github.com/harrisruben)
+- 📧 **Email:** [harrisrubenr@gmail.com](mailto:harrisrubenr@gmail.com)
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in **AI/ML Engineering, Generative AI, Computer Vision, Voice AI and Intelligent Automation**.
+
+⭐ Always learning.  
+🧠 Always building.  
+🚀 Always looking for the next problem to solve.
+
+**Let's build something meaningful with AI.**
